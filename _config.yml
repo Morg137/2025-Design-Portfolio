@@ -3,4 +3,7 @@ name: Morgan Smith
 email: m.smith308@icloud.com
 baseurl: "/2025-Design-Portfolio"
 
-
+collections:
+design:
+output: true
+permalink: /:collection/:path/ 
