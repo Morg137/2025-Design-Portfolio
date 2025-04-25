@@ -1,0 +1,9 @@
+title: My Portfolio
+name: Morgan Smith
+email: M.smith308@icloud.com
+baseurl: "/2025-Design-Portfolio"
+
+collections:
+  design:
+    output: true
+    permalink: /:collection/:path/
