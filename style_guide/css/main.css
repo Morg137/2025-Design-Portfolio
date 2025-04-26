@@ -40,23 +40,26 @@ margin: 0 auto; }
   flex-grow: 1;
 }
 
-/* 60% primary color */
 .primary {
-  flex: 6;
-  background-color: #d3cbc4; 
-}
+          background-color: #282424; /* grey */
+          width: 600px;
+          height: 100px;
+          /* Add other desired styles like padding, margin, etc. */
+        }
 
-/* 30% secondary color */
 .secondary {
-  flex: 3;
-  background-color: #48192e; 
-}
+          background-color: #0087d7; /* blue */
+          width: 300px;
+          height: 100px;
+          /* Add other desired styles like padding, margin, etc. */
+        }
 
-/* 10% accent color */
 .accent {
-  flex: 1;
-  background-color: #281822; 
-} 
+          background-color: #41f8f9; /* Aqua */
+          width: 100px;
+          height: 100px;
+          /* Add other desired styles like padding, margin, etc. */
+        }
 	
 	
 	
