@@ -24,4 +24,50 @@ margin: 0 auto; }
 
 .inner { width: 50%; padding: 10px; }
 
+.grey-rectangle {
+          background-color: #282424; /* grey */
+          width: 600px;
+          height: 100px;
+          /* Add other desired styles like padding, margin, etc. */
+        }
 
+.blue-rectangle {
+          background-color: #0087d7; /* blue */
+          width: 300px;
+          height: 100px;
+          /* Add other desired styles like padding, margin, etc. */
+        }
+
+.aqua-rectangle {
+          background-color: #41f8f9; /* Aqua */
+          width: 100px;
+          height: 100px;
+          /* Add other desired styles like padding, margin, etc. */
+        }
+
+.title{
+	border-bottom:1px solid black;
+/*	text-decoration-line:underline;*/
+}
+
+.container{
+	display: flex;
+	justify-content:space-around;
+	max-width:100%;
+	}
+.box {
+  width:100%;
+  margin-top:25px;
+}
+
+  .slider {
+      width: 900px;
+      max-width: 600px;
+      margin: auto;
+	  justify-content: center;
+  }
+  .slider img {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+  }
