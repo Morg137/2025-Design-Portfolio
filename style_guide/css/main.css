@@ -39,27 +39,27 @@ margin: 0 auto; }
   border-radius: 8px; 
   flex-grow: 1;
 }
-
-.primary {
-          background-color: #d3cbca; 
-        flex: 6;
-         width: 100px;
+.grey-rectangle {
+          background-color: #282424; /* grey */
+          width: 600px;
           height: 100px;
+          /* Add other desired styles like padding, margin, etc. */
         }
 
-.secondary {
-          background-color: #48192e; 
-         flex: 3;
+.blue-rectangle {
+          background-color: #0087d7; /* blue */
+          width: 300px;
+          height: 100px;
+          /* Add other desired styles like padding, margin, etc. */
+        }
+
+.aqua-rectangle {
+          background-color: #41f8f9; /* Aqua */
           width: 100px;
           height: 100px;
+          /* Add other desired styles like padding, margin, etc. */
         }
 
-.accent {
-          background-color: #281822; 
-        flex: 1;
-         width: 100px;
-          height: 100px;
-        }
 	
 	
 	
