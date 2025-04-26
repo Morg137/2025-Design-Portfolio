@@ -36,29 +36,26 @@ margin: 0 auto; }
 
 .color-box {
   height: 100px; 
-  border-radius: 5px; 
+  border-radius: 8px; 
   flex-grow: 1;
 }
 
 .primary {
-          background-color: #282424; /* grey */
-          width: 600px;
-          height: 100px;
-          /* Add other desired styles like padding, margin, etc. */
+          background-color: #282424; 
+        flex: 6;
+       
         }
 
 .secondary {
-          background-color: #0087d7; /* blue */
-          width: 300px;
-          height: 100px;
-          /* Add other desired styles like padding, margin, etc. */
+          background-color: #0087d7; 
+         flex: 3;
+        
         }
 
 .accent {
-          background-color: #41f8f9; /* Aqua */
-          width: 100px;
-          height: 100px;
-          /* Add other desired styles like padding, margin, etc. */
+          background-color: #41f8f9; 
+        flex: 1;
+       
         }
 	
 	
