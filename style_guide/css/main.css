@@ -39,21 +39,21 @@ margin: 0 auto; }
   border-radius: 8px; 
   flex-grow: 1;
 }
-.grey-rectangle {
+.primary {
           background-color: #d3cbca; /* cream */
           width: 600px;
           height: 100px;
           /* Add other desired styles like padding, margin, etc. */
         }
 
-.blue-rectangle {
+.secondary {
           background-color: #48192e; /* magenta */
           width: 300px;
           height: 100px;
           /* Add other desired styles like padding, margin, etc. */
         }
 
-.aqua-rectangle {
+.accent {
           background-color: #281822; /* purple */
           width: 100px;
           height: 100px;

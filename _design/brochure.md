@@ -1,8 +1,8 @@
 ---
-title: "Poster Series"
+title: "Brochure Design"
 tools: [Photoshop, InDesign]
-description: "A typographic poster series exploring contrast, scale, and rhythm."
-layout:
+description: "An in-class project."
+layout: 
 permalink: 
 ---
 
@@ -10,7 +10,7 @@ permalink:
 
 This poster series was created to explore how typography can communicate emotion and energy through layout. Each poster uses a limited color palette and plays with bold type, asymmetrical grids, and negative space.
 
-![Poster Series Preview](/assets/images/poster-series-preview.jpg)
+
 
 
 - Adobe InDesign for layout
